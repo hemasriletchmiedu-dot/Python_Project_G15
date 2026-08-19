@@ -39,7 +39,7 @@ The application compares:
 | MRT | RM 0.20 | 60 | 70 |
 | LRT | RM 0.18 | 45 | 70 |
 | Train | RM 0.25 | 80 | 90 |
-
+> **Note:** Fare values and some speed values are used as project assumptions for calculation purposes. CO₂ reference factors are based on Malaysian GHG/emission-factor guidance. Actual public transportation fares vary depending on the journey, route, and payment method.
 ---
 
 ## Features

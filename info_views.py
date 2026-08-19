@@ -42,7 +42,7 @@ def view_sustainability_guidelines():
     print(f"  >  {SUSTAINABILITY_THRESHOLDS['Fair']:<3} g/km           -> Poor")
     print("-" * 65)
     print(GREEN + "\n  Tips for Sustainable Travel:" + RESET)
-    print("  * Choose MRT/Train for longer distances")
+    print("  * Choose MRT/KTMB for longer distances")
     print("  * Use Bus/LRT for shorter trips")
     print("  * Travel off-peak to reduce congestion")
     print("  * Combine trips to reduce total journeys")

@@ -13,7 +13,7 @@ TRANSPORT_OPTIONS = {
     "1": Transport("Bus", 0.15, 30, 80, 3),
     "2": Transport("MRT", 0.20, 60, 30, 5),
     "3": Transport("LRT", 0.18, 45, 40, 4),
-    "4": Transport("Train", 0.25, 80, 25, 5)
+    "4": Transport("KTMB", 0.25, 80, 25, 5)
 }
 PASSENGER_TYPES = {
     "1": {"name": "Adult", "fare_multiplier": 1.0, "co2_multiplier": 1.0},

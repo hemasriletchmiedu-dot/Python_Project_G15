@@ -8,7 +8,10 @@ class Transport:
         self.speed_kmh = speed_kmh
         self.co2_per_km_per_passenger = co2_per_km_per_passenger
         self.sustainability_base = sustainability_base
-
+                     
+# Transport values used for project calculations.
+# Fare, speed and CO2 values are representative project assumptions.
+# External sources are used to support the sustainability context.
 TRANSPORT_OPTIONS = {
     "1": Transport("Bus", 0.15, 30, 80, 3),
     "2": Transport("MRT", 0.20, 60, 30, 5),

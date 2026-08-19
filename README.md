@@ -1,10 +1,9 @@
 # Smart Public Transportation Fare & Sustainability Calculator
 
 ## SDG 11 – Sustainable Cities and Communities
+The Smart Public Transportation Fare & Sustainability Calculator is a Python-based console application developed to support the SDG 11: Sustainable Cities and Communities. The console based application, is written using the Python programming language will be effective in helping users to compare among different options of public transportation that is sttaed based of the fare amount, travel time and the CO2 emmision. Upon comparing these, it then recommends the most suitable transportation option that matches the affordability and sustainability.
 
-The Smart Public Transportation Fare & Sustainability Calculator is a Python-based console application developed to support the Sustainable Development Goal 11 (SDG 11): Sustainable Cities and Communities.
 
-The console based application, written using the Python programming language will be effective in helping users to compare amonmg different options of public transportation that is stated based on fare amount, travel time and the CO2 emmision. Upon comparing these, it then recommends the most suitable transportation option that matches the affordability and sustainability.  
 ---
 
 ## Problem Statement

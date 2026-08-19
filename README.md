@@ -35,10 +35,10 @@ The application compares:
 
 | Transport | Fare/km | Speed (km/h) | CO₂ (g/km/passenger) |
 |-----------|---------|--------------|----------------------|
-| Bus | RM 0.15 | 30 | 80 |
-| MRT | RM 0.20 | 60 | 30 |
-| LRT | RM 0.18 | 45 | 40 |
-| Train | RM 0.25 | 80 | 25 |
+| Bus | RM 0.15 | 30 | 40 |
+| MRT | RM 0.20 | 60 | 70 |
+| LRT | RM 0.18 | 45 | 70 |
+| Train | RM 0.25 | 80 | 90 |
 
 ---
 
